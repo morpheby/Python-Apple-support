@@ -11,4 +11,3 @@ test/*
 tkinter/*
 turtle.py
 turtledemo/*
-wsgiref/*
